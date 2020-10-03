@@ -1,4 +1,4 @@
-# Spring&MyBatis学习日记01
+# Spring&MyBatis
 
 ## 使用`Spring`整合`MyBatis`
 
